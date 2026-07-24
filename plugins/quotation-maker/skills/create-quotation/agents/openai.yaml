@@ -1,0 +1,4 @@
+interface:
+  display_name: "制作报价单"
+  short_description: "梳理需求并按固定模板生成专业、颗粒度适中的系统报价单"
+  default_prompt: "使用 $create-quotation 根据客户需求生成一份格式一致、条目清晰的系统报价单。"

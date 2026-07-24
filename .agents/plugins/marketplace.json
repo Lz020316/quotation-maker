@@ -1,0 +1,20 @@
+{
+  "name": "quotation-maker",
+  "interface": {
+    "displayName": "报价单制作"
+  },
+  "plugins": [
+    {
+      "name": "quotation-maker",
+      "source": {
+        "source": "local",
+        "path": "./plugins/quotation-maker"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

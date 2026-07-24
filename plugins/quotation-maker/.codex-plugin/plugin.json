@@ -1,0 +1,24 @@
+{
+  "name": "quotation-maker",
+  "version": "0.1.0",
+  "description": "根据软件和信息化项目需求，使用固定 Excel 模板生成颗粒度适中的正式报价单。",
+  "author": {
+    "name": "Personal"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "报价单制作",
+    "shortDescription": "梳理项目需求并按固定模板生成专业报价单",
+    "longDescription": "将软件、平台、网站、小程序、App 和实施服务需求整理为可估算、可验收的报价条目，控制条目颗粒度，避免描述空泛或重复拆项，并保持指定 Excel 报价模板的版式与公式。",
+    "developerName": "Personal",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "根据下面的项目需求制作一份正式报价单。",
+      "把这份需求整理成颗粒度适中的报价清单。",
+      "检查这份系统报价是否存在空泛或重复条目。"
+    ]
+  }
+}
