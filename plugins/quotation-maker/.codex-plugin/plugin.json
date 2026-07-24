@@ -1,6 +1,6 @@
 {
   "name": "quotation-maker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "根据软件和信息化项目需求，使用固定 Excel 模板生成颗粒度适中的正式报价单。",
   "author": {
     "name": "Personal"
